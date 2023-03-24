@@ -1,65 +1,64 @@
 # AF-MONGO-DB
 
-Introducción ​
+## Introducción 
 
-Descripción general de MongoDB
+- Descripción general de MongoDB
 
-Motores de bases de datos NoSQL
+- Motores de bases de datos NoSQL
 
-Bases de datos documentales​
+- Bases de datos documentales
 
-Instalación y configuración de MongoDB​
+- Instalación y configuración de MongoDB
 
--  Operaciones en bases de datos documentales
+## Operaciones en bases de datos documentales
 
-Revisar las operaciones CRUD​
+- Revisar las operaciones CRUD
 
-Crear y eliminar documentos​
+- Crear y eliminar documentos
 
-Leer documentos​
+- Leer documentos
 
-Actualización de documentos
+- Actualización de documentos
 
-Operaciones con documentos
+- Operaciones con documentos
 
-- Índices​
+## Índices
 
-Fundamentos de la indexación
+- Fundamentos de la indexación
 
-Índices simples y compuestos​
+- Índices simples y compuestos
 
-Índices multikey
-​
-Índices hash​
+- Índices multikey
 
-Índices geoespaciales​
-                ​
-Creación y consulta de índices
+- Índices hash
 
-- Agregation Pipeline
+- Índices geoespaciales
+                
+- Creación y consulta de índices
 
-Que es el pipeline de agregación
+## Agregation Pipeline
 
-Métodos principales
+- Que es el pipeline de agregación
 
-Similitudes y diferencias con cláusulas SQL
+- Métodos principales
 
-- Esquemas en MongoDB
+- Similitudes y diferencias con cláusulas SQL
 
-Conceptos básicos del diseño de esquemas
+## Esquemas en MongoDB
 
-Patrón de diseño de esquema común
+- Conceptos básicos del diseño de esquemas
 
-- Replicación
+- Patrón de diseño de esquema común
 
-Introducción a los conjuntos de réplicas
-                Elecciones en conjuntos de réplicas
+## Replicación
 
-The Oplog: replicación basada en declaraciones
+- Introducción a los conjuntos de réplicas
+- Elecciones en conjuntos de réplicas
+- The Oplog: replicación basada en declaraciones
 
-- Otros aspectos relevantes en MongoDB
+## Otros aspectos relevantes en MongoDB
 
-Fragmentación
-MongoMart y desarrollo con Node.js
-Control de Acceso
-Copias de seguridad
+- Fragmentación
+- MongoMart y desarrollo con Node.js
+- Control de Acceso
+- Copias de seguridad

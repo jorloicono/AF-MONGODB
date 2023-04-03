@@ -23,13 +23,13 @@
 - Índices geoespaciales        
 - Creación y consulta de índices
 
-## Agregation Pipeline
+## Aggregation Pipeline
 
 - ¿Que es el Pipeline de Agregación?
 - Métodos principales
 - Similitudes y diferencias con SQL
 
-## Modelado en MongoDB
+## Modelado de datos
 
 - Conceptos básicos del modelado de datos
 - Esquemas de validación

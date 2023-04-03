@@ -20,7 +20,6 @@
 - Fundamentos de la indexación
 - Índices simples y compuestos
 - Índices multikey
-- Índices hash
 - Índices geoespaciales        
 - Creación y consulta de índices
 

@@ -44,7 +44,6 @@
 
 ## Otros aspectos relevantes en MongoDB
 
-- Fragmentación
-- MongoMart y desarrollo con Node.js
+- Sharding
 - Control de Acceso
 - Copias de seguridad

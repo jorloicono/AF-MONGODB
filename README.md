@@ -25,14 +25,16 @@
 
 ## Agregation Pipeline
 
-- Que es el pipeline de agregación
+- ¿Que es el Pipeline de Agregación?
 - Métodos principales
-- Similitudes y diferencias con cláusulas SQL
+- Similitudes y diferencias con SQL
 
-## Esquemas en MongoDB
+## Modelado en MongoDB
 
-- Conceptos básicos del diseño de esquemas
-- Patrón de diseño de esquema común
+- Conceptos básicos del modelado de datos
+- Esquemas de validación
+- Relaciones utilizando documentos embebidos
+- Relaciones utilizando referencias
 
 ## Replicación
 

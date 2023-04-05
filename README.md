@@ -40,7 +40,7 @@
 
 - Introducción a los conjuntos de réplicas
 - Elecciones en conjuntos de réplicas
-- The Oplog: replicación basada en declaraciones
+- OpLog
 
 ## Otros aspectos relevantes en MongoDB
 

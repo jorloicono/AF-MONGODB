@@ -20,30 +20,30 @@
 - Fundamentos de la indexación
 - Índices simples y compuestos
 - Índices multikey
-- Índices hash
 - Índices geoespaciales        
 - Creación y consulta de índices
 
-## Agregation Pipeline
+## Aggregation Pipeline
 
-- Que es el pipeline de agregación
+- ¿Que es el Pipeline de Agregación?
 - Métodos principales
-- Similitudes y diferencias con cláusulas SQL
+- Similitudes y diferencias con SQL
 
-## Esquemas en MongoDB
+## Modelado de datos
 
-- Conceptos básicos del diseño de esquemas
-- Patrón de diseño de esquema común
+- Conceptos básicos del modelado de datos
+- Esquemas de validación
+- Relaciones utilizando documentos embebidos
+- Relaciones utilizando referencias
 
 ## Replicación
 
 - Introducción a los conjuntos de réplicas
 - Elecciones en conjuntos de réplicas
-- The Oplog: replicación basada en declaraciones
+- OpLog
 
 ## Otros aspectos relevantes en MongoDB
 
-- Fragmentación
-- MongoMart y desarrollo con Node.js
+- Sharding
 - Control de Acceso
 - Copias de seguridad

@@ -2,6 +2,9 @@
 
 - SESIÓN 1 - MAÑANA: https://transcripts.gotomeeting.com/#/s/febe9ad22c62872a6ab4006723497fa318ebcee276f83fc7554c49a1b181fcdf
 - SESIÓN 1 - TARDE: https://transcripts.gotomeeting.com/#/s/9cbd5c2ece701edf7d3f3028c6cf4903700d28ef8df3e7c03b67a29a7831800c
+- SESIÓN 2 - MAÑANA:
+- SESIÓN 2 - TARDE:
+- SESIÓN 3: 
 
 # AF-MONGO-DB
 

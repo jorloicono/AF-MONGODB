@@ -1,3 +1,7 @@
+# GRABACIONES 
+
+-SESIÓN 1: https://transcripts.gotomeeting.com/#/s/f5d19e4ea724489dcd850dac88e18b2f8c441187d46e65024ad2c9056718eed8
+
 # AF-MONGO-DB
 
 ## Introducción 

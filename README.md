@@ -1,6 +1,7 @@
 # GRABACIONES 
 
--SESIÓN 1: https://transcripts.gotomeeting.com/#/s/f5d19e4ea724489dcd850dac88e18b2f8c441187d46e65024ad2c9056718eed8
+- SESIÓN 1: https://transcripts.gotomeeting.com/#/s/f5d19e4ea724489dcd850dac88e18b2f8c441187d46e65024ad2c9056718eed8
+- SESIÓN 2: https://transcripts.gotomeeting.com/#/s/247a5923d8bd673d2ba820f76dd186e3691c1f4ff5798bf9e354df08c6bfcb28
 
 # AF-MONGO-DB
 

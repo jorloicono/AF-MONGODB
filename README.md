@@ -3,6 +3,7 @@
 - SESIÓN 1: https://transcripts.gotomeeting.com/#/s/f5d19e4ea724489dcd850dac88e18b2f8c441187d46e65024ad2c9056718eed8
 - SESIÓN 2: https://transcripts.gotomeeting.com/#/s/247a5923d8bd673d2ba820f76dd186e3691c1f4ff5798bf9e354df08c6bfcb28
 - SESIÓN 3: https://transcripts.gotomeeting.com/#/s/6800ac917cc73bd8772aef0f2ee1f60454b123a8116653bb38245c0b8401b040
+- SESIÓN 4: https://transcripts.gotomeeting.com/#/s/b10b9fe656cc78520d01b03d5ad4366218f509ace943dad004b33e0a1529a22c
 
 # AF-MONGO-DB
 
